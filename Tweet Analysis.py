@@ -14,10 +14,10 @@ import json
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="btsvglScmCfbsZPLOB3Nq2QHS"
-csecret="Y8q8FCLMCTiMQ3r7JhJP6Xo4SnZwXtKZCkHseRduYPbRe23X4x"
-atoken="100493270-UoWToQF9WMUSgGCl5A6XNCMIqOcc9wq4JGHlvqVv"
-asecret="vCUEHBtLMbkGDGG4Z27Rrse0w6QlmFbeST5GnUKGeXaEB"
+ckey=#provide the key details
+csecret=
+atoken=
+asecret=
 
 auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
