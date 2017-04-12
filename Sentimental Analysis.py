@@ -13,10 +13,10 @@ from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 
 #consumer key, consumer secret, access token, access secret.
-ckey="btsvglScmCfbsZPLOB3Nq2QHS"
-csecret="Y8q8FCLMCTiMQ3r7JhJP6Xo4SnZwXtKZCkHseRduYPbRe23X4x"
-atoken="100493270-UoWToQF9WMUSgGCl5A6XNCMIqOcc9wq4JGHlvqVv"
-asecret="vCUEHBtLMbkGDGG4Z27Rrse0w6QlmFbeST5GnUKGeXaEB"
+ckey=# enter the key details
+csecret= ####3
+atoken=##########
+asecret=#########
 
 class listener(StreamListener):
 
